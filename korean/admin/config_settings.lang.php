@@ -101,7 +101,7 @@ $l['error_no_settings_found'] = '지정된 검색 문구에 대한 설정을 찾
 $l['error_cannot_edit_default'] = '기본 설정 및 그룹은 편집하거나 제거할 수 없습니다.';
 $l['error_cannot_edit_php'] = '이는 편집할 수 없는 특수한 유형의 설정입니다.';
 $l['error_ajax_search'] = '설정을 검색하는 중에 문제가 발생:';
-$l['error_ajax_unknown'] = 'An unknown error occurred while searching for settings.';
+$l['error_ajax_unknown'] = '설정을 검색하는 중 알 수 없는 오류가 발생했습니다.';
 $l['error_chmod_settings_file'] = '설정 파일 "./inc/settings.php"에는 쓸 수 없습니다. 666으로 CHMOD를 요청하세요.<br />CHMODing에 대한 자세한 내용은 <a href="https://docs.mybb.com/1.8/administration/security/file-permissions" target="_blank" rel="을 참조하세요. noopener">MyBB 문서</a>.';
 $l['error_admin_email_settings_empty'] = '<div class="smalltext" style="font-weight: Normal;">설정은 비워 둘 수 없으며 유효한 이메일 주소여야 하므로 <strong>관리자 이메일</strong>은 저장되지 않았습니다. </div>';
 $l['success_setting_added'] = '설정이 성공적으로 생성되었습니다.';
