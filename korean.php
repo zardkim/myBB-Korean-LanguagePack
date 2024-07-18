@@ -1,12 +1,13 @@
 <?php
 // The friendly name of the language
 $langinfo['name'] = "한국어";
+$langinfo['name'] = "한국어(South Korea)";
 
 // The author of the language
 $langinfo['author'] = "zardkim";
 
 // The language authors website
-$langinfo['website'] = "https://";
+$langinfo['website'] = "https://mybb.com/";
 
 // Compatible version of MyBB
 $langinfo['version'] = "1838";
@@ -18,7 +19,7 @@ $langinfo['admin'] = 1;
 $langinfo['rtl'] = 0;
 
 // Sets the lang in the <html> on all pages
-$langinfo['htmllang'] = "kr";
+$langinfo['htmllang'] = "ko";
 
 // Sets the character set, blank uses the default.
 $langinfo['charset'] = "UTF-8";
