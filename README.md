@@ -8,8 +8,8 @@ Installtion
 
 1. Extract zip file
 
-2. korean.php -> mybb/inc/language to folder copy or upload
+2. Upload or copy the "korean.php" file to the "/inc/language" folder
 
-3. "korean" folder -> mybb/inc/language to copy or upload
+3. Upload or copy the "korean" folder to the "/inc/language" folder
 
-4. admin cp -> language -> 한국어 select
+4. admin cp -> language -> Korean select
